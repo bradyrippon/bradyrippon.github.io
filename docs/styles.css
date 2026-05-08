@@ -1,1 +1,28 @@
-/* css styles */
+.homepage-hero {
+  align-items: center;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+.profile-image {
+  width: 260px;
+  max-width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.homepage-hero h1 {
+  font-size: 3.5rem;
+  font-weight: 750;
+  margin-bottom: 1rem;
+}
+
+.homepage-hero p {
+  font-size: 1.2rem;
+  max-width: 650px;
+}
+
+.btn {
+  margin-right: 0.5rem;
+  margin-top: 1rem;
+}

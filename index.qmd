@@ -1,7 +1,31 @@
 ---
-title: "Home"
+title: ""
 ---
+
+::: {.grid .homepage-hero}
+
+::: {.g-col-12 .g-col-md-4}
+
+![](images/headshot.jpg){.profile-image}
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
 
 # Brady Rippon
 
-Welcome to my website.
+Biostatistician and R developer working on reproducible research workflows, statistical programming, and clinical research tools.
+
+[Projects](packages.qmd){.btn .btn-primary}
+[Packages](packages.qmd){.btn .btn-outline-primary}
+
+:::
+
+:::
+
+## Current Work
+
+- Reproducible reporting tools in R
+- Clinical research workflows
+- Statistical dashboards and automation
+- R package development

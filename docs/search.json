@@ -23,8 +23,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Brady Rippon",
     "section": "",
-    "text": "Brady Rippon\nWelcome to my website."
+    "text": "Biostatistician and R developer working on reproducible research workflows, statistical programming, and clinical research tools.\nProjects Packages"
+  },
+  {
+    "objectID": "index.html#what-im-working-on",
+    "href": "index.html#what-im-working-on",
+    "title": "Brady Rippon",
+    "section": "What I’m working on",
+    "text": "What I’m working on\n\n\nR Packages\nReusable tools for project scaffolding, reporting templates, and reproducible workflows.\n\n\nResearch\nProjects focused on clinical research, emergency preparedness, and health systems analysis.\n\n\nReports & Dashboards\nQuarto, R Markdown, Shiny, and automated reporting workflows."
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Brady Rippon",
+    "section": "Current Work",
+    "text": "Current Work\n\nReproducible reporting tools in R\nClinical research workflows\nStatistical dashboards and automation\nR package development"
   }
 ]
