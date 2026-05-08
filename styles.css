@@ -65,7 +65,7 @@ a:hover {
 
 /* Primary button */
 .btn-primary {
-  background-color: #f52c2c;
+  background-color: #d11515;
   border-color: #3b3b3b;
 }
 
@@ -76,7 +76,7 @@ a:hover {
 
 /* Outline button */
 .btn-outline-primary {
-  color: #f52c2c;
+  color: #d11515;
   border-color: #d9a441;
 }
 
