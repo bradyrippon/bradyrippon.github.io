@@ -1,10 +1,11 @@
 
 main.content {
-  padding-top: 0.5rem;
+  padding-top: 0.1rem;
 }
 
 .homepage-hero {
   align-items: center;
+  /* align-items: flex-start; */
   /* padding-top: 3rem; */
   /* padding-bottom: 2rem; */
 }
@@ -14,22 +15,23 @@ main.content {
   max-width: 100%;
   border-radius: 12px;
   display: block;
+  border: 3px solid #d9a441;
 }
 
 .homepage-hero h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 750;
   margin-bottom: 1rem;
 }
 
 .homepage-hero p {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   max-width: 650px;
 }
 
 .btn {
   margin-right: 0.5rem;
-  margin-top: 1rem;
+  margin-top: 0.75rem;
 }
 
 /* Navbar */
@@ -84,4 +86,52 @@ a:hover {
   background-color: #d9a441;
   border-color: #d9a441;
   color: white;
+}
+
+.timeline {
+  margin-top: 1.5rem;
+  max-width: 850px;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  column-gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.timeline-dot {
+  width: 14px;
+  height: 14px;
+  background: #d9a441;
+  border: 3px solid #3b3b3b;
+  border-radius: 50%;
+  margin-top: 0.45rem;
+  position: relative;
+}
+
+.timeline-dot::after {
+  content: "";
+  position: absolute;
+  top: 17px;
+  left: 50%;
+  width: 3px;
+  height: 100px;
+  background: #d9a441;
+  transform: translateX(-50%);
+}
+
+.timeline-item:last-child .timeline-dot::after {
+  display: none;
+}
+
+.timeline-content {
+  border-left: 4px solid #d9a441;
+  padding: 1rem 1.25rem;
+  background: rgba(217, 164, 65, 0.08);
+  border-radius: 10px;
+}
+
+.timeline-content h3 {
+  margin-top: 0;
 }

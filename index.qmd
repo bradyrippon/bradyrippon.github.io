@@ -2,23 +2,58 @@
 title: ""
 ---
 
-::: {.grid .homepage-hero}
-
+::::: {.grid .homepage-hero}
 ::: {.g-col-12 .g-col-md-4}
-
 ![](images/headshot.jpg){.profile-image}
-
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-
 # Brady Rippon
 
-Biostatistician and R developer working on reproducible research workflows, statistical programming, and clinical research tools.
+Hello! I'm a biostatistician and research software developer with interests in clinical research tools, statistical programming, and reproducible research designs.
 
+```{=html}
+<!-- 
 [Projects](packages.qmd){.btn .btn-primary}
 [Packages](packages.qmd){.btn .btn-outline-primary}
+-->
+```
+:::
+:::::
 
+## Background
+
+::: {.timeline}
+
+::: {.timeline-item}
+::: {.timeline-dot}
+:::
+
+::: {.timeline-content}
+### Education
+
+**M.S., Biostatistics**  
+Columbia University, Mailman School of Public Health
+
+**B.S., Physics**  
+University of Scranton
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-dot}
+:::
+
+::: {.timeline-content}
+### Work
+
+**Research Biostatistician**  
+Weill Cornell Medicine
+
+**Adjust Instructor**  
+Columbia University, Mailman School of Public Health
+
+:::
 :::
 
 :::
