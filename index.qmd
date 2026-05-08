@@ -30,13 +30,13 @@ Hello! I'm a biostatistician and research software developer with interests in c
 :::
 
 ::: {.timeline-content}
-### Education
+### Work
 
-**M.S., Biostatistics**  
+**Research Biostatistician**  
+Weill Cornell Medicine
+
+**Adjust Instructor**  
 Columbia University, Mailman School of Public Health
-
-**B.S., Physics**  
-University of Scranton
 :::
 :::
 
@@ -45,14 +45,13 @@ University of Scranton
 :::
 
 ::: {.timeline-content}
-### Work
+### Education
 
-**Research Biostatistician**  
-Weill Cornell Medicine
-
-**Adjust Instructor**  
+**M.S., Biostatistics**  
 Columbia University, Mailman School of Public Health
 
+**B.S., Physics**  
+University of Scranton
 :::
 :::
 
