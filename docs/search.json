@@ -28,11 +28,11 @@
     "text": "I am a biostatistician and software engineer with interests in clinical analysis tools, statistical programming, and data visualization. I am an enthusiastic R and SAS user and love thinking of ways to make research more transparent and approachable."
   },
   {
-    "objectID": "index.html#what-im-working-on",
-    "href": "index.html#what-im-working-on",
+    "objectID": "index.html#background",
+    "href": "index.html#background",
     "title": "Brady Rippon",
-    "section": "What I’m working on",
-    "text": "What I’m working on\n\n\nR Packages\nReusable tools for project scaffolding, reporting templates, and reproducible workflows.\n\n\nResearch\nProjects focused on clinical research, emergency preparedness, and health systems analysis.\n\n\nReports & Dashboards\nQuarto, R Markdown, Shiny, and automated reporting workflows."
+    "section": "Background",
+    "text": "Background\n\n\n\n Work\nResearch Biostatistician\nWeill Cornell Medicine\nAdjunct Instructor\nColumbia University\n\n\n\n\n Education\nM.S., Biostatistics\nColumbia University\nB.S., Physics\nUniversity of Scranton"
   },
   {
     "objectID": "index.html#current-work",
@@ -40,12 +40,5 @@
     "title": "Brady Rippon",
     "section": "Current Work",
     "text": "Current Work\n\nReproducible reporting tools in R\nClinical research workflows\nStatistical dashboards and automation\nR package development"
-  },
-  {
-    "objectID": "index.html#background",
-    "href": "index.html#background",
-    "title": "Brady Rippon",
-    "section": "Background",
-    "text": "Background\n\n\n\n Work\nResearch Biostatistician\nWeill Cornell Medicine\nAdjunct Instructor, Statistical Computing with SAS\nColumbia University, Mailman School of Public Health\n\n\n\n\n Education\nM.S., Biostatistics\nColumbia University, Mailman School of Public Health\nB.S., Physics\nUniversity of Scranton"
   }
 ]
