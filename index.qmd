@@ -32,8 +32,8 @@ I am a biostatistician and software engineer with interests in clinical analysis
 **Research Biostatistician**  
 Weill Cornell Medicine
 
-**Adjunct Instructor, _Statistical Computing with SAS_**  
-Columbia University, Mailman School of Public Health
+**Adjunct Instructor**  
+Columbia University
 :::
 :::
 
@@ -42,7 +42,7 @@ Columbia University, Mailman School of Public Health
 ### <i class="bi bi-mortarboard-fill"></i> Education
 
 **M.S., Biostatistics**  
-Columbia University, Mailman School of Public Health
+Columbia University
 
 **B.S., Physics**  
 University of Scranton
