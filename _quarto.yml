@@ -8,10 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: projects.qmd
+        text: Projects
       - href: packages.qmd
         text: Packages
+      - href: tutorials.qmd
+        text: Tutorials
+      - href: presentations.qmd
+        text: Presentations
     right:
       - icon: envelope-fill
         href: mailto:brady.rippon@gmail.com

@@ -51,9 +51,11 @@ University of Scranton
 
 ::::
 
+<!-- 
 ## Current Work
 
 - Reproducible reporting tools in R
 - Clinical research workflows
 - Statistical dashboards and automation
 - R package development
+-->
