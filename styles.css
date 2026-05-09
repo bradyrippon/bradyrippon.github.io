@@ -88,50 +88,25 @@ a:hover {
   color: white;
 }
 
-.timeline {
-  margin-top: 1.5rem;
-  max-width: 850px;
+.info-box {
+  border: 2px solid #d9a441;
+  border-radius: 14px;
+  padding: 1rem;
+  height: 100%;
+  background-color: rgba(217, 164, 65, 0.05);
 }
 
-.timeline-item {
-  display: grid;
-  grid-template-columns: 28px 1fr;
-  column-gap: 1rem;
-  margin-bottom: 1.5rem;
-}
-
-.timeline-dot {
-  width: 14px;
-  height: 14px;
-  background: #d9a441;
-  border: 3px solid #3b3b3b;
-  border-radius: 50%;
-  margin-top: 0.45rem;
-  position: relative;
-}
-
-.timeline-dot::after {
-  content: "";
-  position: absolute;
-  top: 17px;
-  left: 50%;
-  width: 3px;
-  height: 100px;
-  background: #d9a441;
-  transform: translateX(-50%);
-}
-
-.timeline-item:last-child .timeline-dot::after {
-  display: none;
-}
-
-.timeline-content {
-  border-left: 4px solid #d9a441;
-  padding: 1rem 1.25rem;
-  background: rgba(217, 164, 65, 0.08);
-  border-radius: 10px;
-}
-
-.timeline-content h3 {
+.info-box h3 {
   margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.info-box h3 i {
+  color: #d9a441;
+  margin-right: 0.5rem;
+}
+
+.info-box p,
+.info-box strong {
+  line-height: 1.5;
 }
