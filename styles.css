@@ -1,4 +1,9 @@
 
+/* Wider content area */
+.quarto-container {
+  max-width: 1250px;
+}
+
 main.content {
   padding-top: 0.1rem;
 }
