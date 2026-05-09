@@ -39,6 +39,10 @@ main.content {
   background-color: #3b3b3b;
 }
 
+.navbar-toggler {
+  display: none;
+}
+
 /* Navbar text */
 .navbar-title,
 .navbar-nav .nav-link {
