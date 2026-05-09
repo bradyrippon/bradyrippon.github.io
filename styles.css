@@ -47,9 +47,10 @@ main.content {
   background-color: #3b3b3b;
 }
 
-.navbar-toggler {
+/*.navbar-toggler {
   display: none;
 }
+*/
 
 /* Navbar text */
 .navbar-title,
@@ -128,4 +129,57 @@ a:hover {
 .info-box p,
 .info-box strong {
   line-height: 1.5;
+}
+
+
+/* Mobile layout fixes */
+@media (max-width: 768px) {
+
+  .quarto-container {
+    max-width: 100%;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  main.content {
+    padding-top: 0;
+  }
+
+  .homepage-hero {
+    align-items: center;
+    text-align: left;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    row-gap: 1.25rem;
+  }
+
+  .profile-image {
+    width: 100%;
+    max-width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .homepage-hero h1 {
+    font-size: 2.6rem;
+    line-height: 1.05;
+    margin-top: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .homepage-hero p {
+    font-size: 1.15rem;
+    line-height: 1.45;
+    max-width: 100%;
+  }
+
+  .btn {
+    display: inline-block;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .info-box {
+    margin-bottom: 1rem;
+  }
 }
