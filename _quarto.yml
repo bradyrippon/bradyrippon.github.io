@@ -12,6 +12,15 @@ website:
         text: About
       - href: packages.qmd
         text: Packages
+    right:
+      - icon: envelope-fill
+        href: mailto:brady.rippon@gmail.com
+      - text: "<i class='ai ai-google-scholar'></i>"
+        href: https://scholar.google.com/citations?user=dFCzy7wAAAAJ&hl=en
+      - icon: linkedin
+        href: https://linkedin.com/in/brady-rippon/
+      - icon: github
+        href: https://github.com/bradyrippon
 
 format:
   html:
@@ -20,6 +29,5 @@ format:
     toc: false
     include-in-header:
       text: |
-        <link rel="stylesheet"
-              href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
