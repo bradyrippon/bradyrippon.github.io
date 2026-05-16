@@ -10,7 +10,7 @@ title: ""
 ::: {.g-col-12 .g-col-md-8}
 # Brady Rippon
 
-I am a biostatistician and software engineer with interests in clinical analysis tools, statistical programming, and data visualization. I am an enthusiastic R and SAS user and love thinking of ways to make research more transparent and approachable. 
+I am a biostatistician and software engineer with interests in clinical analysis tools, statistical programming, and data visualization. I am an enthusiastic R and SAS user and love thinking of ways to make research more transparent and approachable.
 
 ```{=html}
 <!-- 
@@ -23,34 +23,33 @@ I am a biostatistician and software engineer with interests in clinical analysis
 
 ## Background
 
-:::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-::: {.info-box}
+::::::: grid
+:::: {.g-col-12 .g-col-md-6}
+::: info-box
 ### <i class="bi bi-briefcase-fill"></i> Work
 
-**Research Biostatistician**  
+**Research Biostatistician**\
 Weill Cornell Medicine
 
-**Adjunct Instructor**  
+**Adjunct Instructor**\
 Columbia University
 :::
-:::
-
-::: {.g-col-12 .g-col-md-6}
-::: {.info-box}
-### <i class="bi bi-mortarboard-fill"></i> Education
-
-**M.S., Biostatistics**  
-Columbia University
-
-**B.S., Physics**  
-University of Scranton
-:::
-:::
-
 ::::
 
+:::: {.g-col-12 .g-col-md-6}
+::: info-box
+### <i class="bi bi-mortarboard-fill"></i> Education
+
+**M.S., Biostatistics**\
+Columbia University
+
+**B.S., Physics**\
+University of Scranton
+:::
+::::
+:::::::
+
+```{=html}
 <!-- 
 ## Current Work
 
@@ -59,3 +58,4 @@ University of Scranton
 - Statistical dashboards and automation
 - R package development
 -->
+```

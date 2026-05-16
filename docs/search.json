@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "packages.html",
-    "href": "packages.html",
-    "title": "Packages",
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
-    "text": "dolly\ncubicle"
+    "text": "Work in progress :)"
   },
   {
-    "objectID": "packages.html#r-packages",
-    "href": "packages.html#r-packages",
-    "title": "Packages",
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
     "section": "",
-    "text": "dolly\ncubicle"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is where your bio will go."
+    "text": "Work in progress :)"
   },
   {
     "objectID": "index.html",
@@ -35,25 +28,18 @@
     "text": "Background\n\n\n\n Work\nResearch Biostatistician\nWeill Cornell Medicine\nAdjunct Instructor\nColumbia University\n\n\n\n\n Education\nM.S., Biostatistics\nColumbia University\nB.S., Physics\nUniversity of Scranton"
   },
   {
-    "objectID": "index.html#current-work",
-    "href": "index.html#current-work",
-    "title": "Brady Rippon",
-    "section": "Current Work",
-    "text": "Current Work\n\nReproducible reporting tools in R\nClinical research workflows\nStatistical dashboards and automation\nR package development"
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "Packages",
+    "section": "",
+    "text": "dolly\ncubicle"
   },
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
+    "objectID": "packages.html#r-packages",
+    "href": "packages.html#r-packages",
+    "title": "Packages",
     "section": "",
-    "text": "Work in progress :)"
-  },
-  {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "Work in progress :)"
+    "text": "dolly\ncubicle"
   },
   {
     "objectID": "projects.html",

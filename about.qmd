@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-This is where your bio will go.
