@@ -3,3 +3,5 @@ title: "Presentations"
 ---
 
 Work in progress :)
+
+![](images/construction.gif){width=400px}
