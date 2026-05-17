@@ -1,5 +1,4 @@
 
-/* Wider content area */
 /* Wider centered content area */
 .quarto-container {
   max-width: 1500px;
@@ -47,10 +46,11 @@ main.content {
   background-color: #3b3b3b;
 }
 
-/*.navbar-toggler {
-  display: none;
+/* Inline code */
+code {
+  color: #d11515;
+  /* background-color: #f5f5f5; */
 }
-*/
 
 /* Navbar text */
 .navbar-title,
