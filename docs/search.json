@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
+    "objectID": "tutorials/gtsummary-headers.html",
+    "href": "tutorials/gtsummary-headers.html",
+    "title": "Group headers for gtsummary tables",
     "section": "",
     "text": "Work in progress :)"
   },
   {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Tutorials",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
     "text": "Work in progress :)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brady Rippon",
-    "section": "",
-    "text": "I am a biostatistician and software engineer with interests in clinical analysis tools, statistical programming, and data visualization. I am an enthusiastic R and SAS user and love thinking of ways to make research more transparent and approachable."
-  },
-  {
-    "objectID": "index.html#background",
-    "href": "index.html#background",
-    "title": "Brady Rippon",
-    "section": "Background",
-    "text": "Background\n\n\n\n Work\nResearch Biostatistician\nWeill Cornell Medicine\nAdjunct Instructor\nColumbia University\n\n\n\n\n Education\nM.S., Biostatistics\nColumbia University\nB.S., Physics\nUniversity of Scranton"
   },
   {
     "objectID": "packages.html",
@@ -42,9 +28,37 @@
     "text": "dolly\ncubicle"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brady Rippon",
+    "section": "",
+    "text": "I am a biostatistician and software engineer with interests in clinical analysis tools, statistical programming, and data visualization. I am an enthusiastic R and SAS user and love thinking of ways to make research more transparent and approachable."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Brady Rippon",
+    "section": "Background",
+    "text": "Background\n\n\n\n Work\nResearch Biostatistician\nWeill Cornell Medicine\nAdjunct Instructor\nColumbia University\n\n\n\n\n Education\nM.S., Biostatistics\nColumbia University\nB.S., Physics\nUniversity of Scranton"
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Browse the collection of examples below for useful info applicable in research programming and reporting."
+  },
+  {
+    "objectID": "tutorials.html#summary-tables",
+    "href": "tutorials.html#summary-tables",
+    "title": "Tutorials",
+    "section": "Summary Tables",
+    "text": "Summary Tables\n\nGroup headers for gtsummary tables"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
     "section": "",
     "text": "Work in progress :)"
   }

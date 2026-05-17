@@ -6,4 +6,4 @@ Browse the collection of examples below for useful info applicable in research p
 
 ## Summary Tables
 
-- [Building a personal Quarto website](tutorials/gtsummary-headers.qmd)
+- [Group headers for `gtsummary` tables](tutorials/gtsummary-headers.qmd)
