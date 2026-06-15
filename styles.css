@@ -183,3 +183,31 @@ a:hover {
     margin-bottom: 1rem;
   }
 }
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+
+  background-image: url("images/backgrounds/homepage.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  opacity: 0.28;
+
+  -webkit-mask-image: radial-gradient(
+    ellipse at center,
+    transparent 0%,
+    transparent 35%,
+    black 100%
+  );
+
+  mask-image: radial-gradient(
+    ellipse at center,
+    transparent 0%,
+    transparent 35%,
+    black 100%
+  );
+}
