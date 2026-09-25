@@ -1,5 +1,6 @@
 ---
 title: ""
+body-classes: page-home
 ---
 
 ::::: {.grid .homepage-hero}

@@ -184,13 +184,35 @@ a:hover {
   }
 }
 
+/* Page backgrounds: match each page's body-classes in its .qmd header. */
+body {
+  --page-background: url("images/backgrounds/mocks/abstract.svg");
+}
+
+body.page-home {
+  --page-background: url("images/backgrounds/mocks/abstract.svg");
+}
+
+body.page-tutorials {
+  --page-background: url("images/backgrounds/mocks/shapes.svg");
+}
+
+body.page-packages,
+body.page-presentations {
+  --page-background: url("images/backgrounds/mocks/waves.svg");
+}
+
+body.page-projects {
+  --page-background: url("images/backgrounds/mocks/squares.svg");
+}
+
 body::before {
   content: "";
   position: fixed;
   inset: 0;
   z-index: -1;
 
-  background-image: url("images/backgrounds/homepage.svg");
+  background-image: var(--page-background);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

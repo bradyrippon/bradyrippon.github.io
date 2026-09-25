@@ -1,5 +1,6 @@
 ---
 title: "Tutorials"
+body-classes: page-tutorials
 ---
 
 Browse the collection of examples below for useful info applicable in research programming and reporting.

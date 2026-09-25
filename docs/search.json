@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "tutorials/gtsummary-headers.html",
-    "href": "tutorials/gtsummary-headers.html",
-    "title": "Group headers for gtsummary tables",
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
     "section": "",
-    "text": "Work in progress :)"
+    "text": "Browse the collection of examples below for useful info applicable in research programming and reporting."
+  },
+  {
+    "objectID": "tutorials.html#summary-tables",
+    "href": "tutorials.html#summary-tables",
+    "title": "Tutorials",
+    "section": "Summary Tables",
+    "text": "Summary Tables\n\nGroup headers for gtsummary tables"
   },
   {
     "objectID": "projects.html",
@@ -35,23 +42,16 @@
     "text": "Background\n\n\n\n Work\nResearch Biostatistician\nWeill Cornell Medicine\nAdjunct Instructor\nColumbia University\n\n\n\n\n Education\nM.S., Biostatistics\nColumbia University\nB.S., Physics\nUniversity of Scranton"
   },
   {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "Browse the collection of examples below for useful info applicable in research programming and reporting."
-  },
-  {
-    "objectID": "tutorials.html#summary-tables",
-    "href": "tutorials.html#summary-tables",
-    "title": "Tutorials",
-    "section": "Summary Tables",
-    "text": "Summary Tables\n\nGroup headers for gtsummary tables"
-  },
-  {
     "objectID": "presentations.html",
     "href": "presentations.html",
     "title": "Presentations",
+    "section": "",
+    "text": "Work in progress :)"
+  },
+  {
+    "objectID": "tutorials/gtsummary-headers.html",
+    "href": "tutorials/gtsummary-headers.html",
+    "title": "Group headers for gtsummary tables",
     "section": "",
     "text": "Work in progress :)"
   }

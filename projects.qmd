@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+body-classes: page-projects
 ---
 
 Work in progress :)

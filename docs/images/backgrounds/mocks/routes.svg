@@ -28,12 +28,12 @@
 <g clip-path='url(#cpMC4wMHwxMDA4LjAwfDAuMDB8NTc2LjAw)'>
 <rect x='0.00' y='0.00' width='1008.00' height='576.00' style='stroke-width: 0.00; stroke: none;' />
 <rect x='0.00' y='0.00' width='1008.00' height='576.00' style='stroke-width: 0.00; stroke: none;' />
-<polyline points='84.00,640.00 84.00,320.00 420.00,320.00 420.00,0.00 1008.00,0.00 ' style='stroke-width: 12.80; stroke: #3B82F6;' />
-<polyline points='-84.00,384.00 336.00,384.00 336.00,128.00 756.00,128.00 756.00,-64.00 ' style='stroke-width: 12.80; stroke: #F2A900;' />
-<polyline points='-84.00,512.00 672.00,512.00 672.00,320.00 1092.00,320.00 ' style='stroke-width: 12.80; stroke: #6B7280;' />
-<polyline points='-84.00,192.00 252.00,192.00 252.00,512.00 840.00,512.00 840.00,256.00 1092.00,256.00 ' style='stroke-width: 12.80; stroke: #10B981;' />
-<polyline points='504.00,640.00 504.00,384.00 924.00,384.00 924.00,64.00 1092.00,64.00 ' style='stroke-width: 12.80; stroke: #7C3AED;' />
 <polyline points='-84.00,64.00 168.00,64.00 168.00,256.00 588.00,256.00 588.00,448.00 1092.00,448.00 ' style='stroke-width: 12.80; stroke: #B31B1B;' />
+<polyline points='-84.00,384.00 336.00,384.00 336.00,128.00 756.00,128.00 756.00,-64.00 ' style='stroke-width: 12.80; stroke: #F2A900;' />
+<polyline points='84.00,640.00 84.00,320.00 420.00,320.00 420.00,32.00 1008.00,32.00 ' style='stroke-width: 12.80; stroke: #3B82F6;' />
+<polyline points='-84.00,192.00 252.00,192.00 252.00,512.00 840.00,512.00 840.00,256.00 1092.00,256.00 ' style='stroke-width: 12.80; stroke: #10B981;' />
+<polyline points='504.00,640.00 504.00,384.00 924.00,384.00 924.00,64.00 1092.00,64.00 ' style='stroke-width: 12.80; stroke: #6B21A8;' />
+<polyline points='-84.00,480.00 672.00,480.00 672.00,192.00 1092.00,192.00 ' style='stroke-width: 12.80; stroke: #F9A8D4;' />
 </g>
 </g>
 </svg>

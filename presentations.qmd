@@ -1,5 +1,6 @@
 ---
 title: "Presentations"
+body-classes: page-presentations
 ---
 
 Work in progress :)

@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - images/backgrounds/mocks/*.svg
 
 website:
   title: ""
